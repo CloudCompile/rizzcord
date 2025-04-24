@@ -1,0 +1,11 @@
+{
+  "name": "rizzcord",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@replit/database": "^2.0.0",
+    "bcrypt": "^5.1.0"
+  }
+}
